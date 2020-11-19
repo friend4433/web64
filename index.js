@@ -1,2 +1,3 @@
-alert("hello world")
-doument.getElementById("root");
+alert("hello world");
+function add(){};
+
